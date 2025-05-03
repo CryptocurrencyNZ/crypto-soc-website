@@ -7,7 +7,7 @@
   "name": "cnz",
   "routes": [
     {
-      "pattern": "beta.cryptocurrency.org.nz",
+      "pattern": "uccryptosoc.org.nz",
       "custom_domain": true,
     },
   ],
