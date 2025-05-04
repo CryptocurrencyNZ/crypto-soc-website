@@ -7,7 +7,7 @@
   "name": "cryptosoc",
   "routes": [
     {
-      "pattern": "uccryptosoc.org.nz",
+      "pattern": "uccryptosociety.org.nz",
       "custom_domain": true,
     },
   ],
