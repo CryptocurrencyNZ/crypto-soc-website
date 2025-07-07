@@ -1,1 +1,646 @@
-globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST["/history/page"]={"moduleLoading":{"prefix":"/_next/","crossOrigin":null},"ssrModuleMapping":{"894":{"*":{"id":"6346","name":"*","chunks":[],"async":false}},"1295":{"*":{"id":"7173","name":"*","chunks":[],"async":false}},"1504":{"*":{"id":"200","name":"*","chunks":[],"async":false}},"3063":{"*":{"id":"6533","name":"*","chunks":[],"async":false}},"4326":{"*":{"id":"6998","name":"*","chunks":[],"async":false}},"4737":{"*":{"id":"3518","name":"*","chunks":[],"async":false}},"4911":{"*":{"id":"8827","name":"*","chunks":[],"async":false}},"4970":{"*":{"id":"7924","name":"*","chunks":[],"async":false}},"5494":{"*":{"id":"1285","name":"*","chunks":[],"async":false}},"5957":{"*":{"id":"4085","name":"*","chunks":[],"async":false}},"6502":{"*":{"id":"4908","name":"*","chunks":[],"async":false}},"6614":{"*":{"id":"5656","name":"*","chunks":[],"async":false}},"6874":{"*":{"id":"5814","name":"*","chunks":[],"async":false}},"6975":{"*":{"id":"2480","name":"*","chunks":[],"async":false}},"7555":{"*":{"id":"8243","name":"*","chunks":[],"async":false}},"9495":{"*":{"id":"4247","name":"*","chunks":[],"async":false}},"9665":{"*":{"id":"2763","name":"*","chunks":[],"async":false}}},"edgeSSRModuleMapping":{},"clientModules":{"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/client/components/client-page.js":{"id":894,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/esm/client/components/client-page.js":{"id":894,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/client/components/client-segment.js":{"id":4970,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/esm/client/components/client-segment.js":{"id":4970,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/client/components/error-boundary.js":{"id":6614,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/esm/client/components/error-boundary.js":{"id":6614,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/client/components/http-access-fallback/error-boundary.js":{"id":6975,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/esm/client/components/http-access-fallback/error-boundary.js":{"id":6975,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/client/components/layout-router.js":{"id":7555,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/esm/client/components/layout-router.js":{"id":7555,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/client/components/metadata/async-metadata.js":{"id":4911,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/esm/client/components/metadata/async-metadata.js":{"id":4911,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/client/components/metadata/metadata-boundary.js":{"id":9665,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/esm/client/components/metadata/metadata-boundary.js":{"id":9665,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/client/components/render-from-template-context.js":{"id":1295,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/esm/client/components/render-from-template-context.js":{"id":1295,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/client/app-dir/link.js":{"id":6874,"name":"*","chunks":["874","static/chunks/874-450ef3267553834d.js","63","static/chunks/63-0d028711a0b65d2a.js","177","static/chunks/app/layout-13ebb542e989eb86.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/esm/client/app-dir/link.js":{"id":6874,"name":"*","chunks":["874","static/chunks/874-450ef3267553834d.js","63","static/chunks/63-0d028711a0b65d2a.js","177","static/chunks/app/layout-13ebb542e989eb86.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/client/image-component.js":{"id":3063,"name":"*","chunks":["874","static/chunks/874-450ef3267553834d.js","63","static/chunks/63-0d028711a0b65d2a.js","177","static/chunks/app/layout-13ebb542e989eb86.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/dist/esm/client/image-component.js":{"id":3063,"name":"*","chunks":["874","static/chunks/874-450ef3267553834d.js","63","static/chunks/63-0d028711a0b65d2a.js","177","static/chunks/app/layout-13ebb542e989eb86.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Alegreya_SC\",\"arguments\":[{\"weight\":[\"400\",\"500\",\"700\",\"800\",\"900\"],\"variable\":\"--font-alegreya\",\"subsets\":[\"latin\"]}],\"variableName\":\"agreya\"}":{"id":6141,"name":"*","chunks":["874","static/chunks/874-450ef3267553834d.js","63","static/chunks/63-0d028711a0b65d2a.js","177","static/chunks/app/layout-13ebb542e989eb86.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"variable\":\"--font-inter\",\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}":{"id":6696,"name":"*","chunks":["874","static/chunks/874-450ef3267553834d.js","63","static/chunks/63-0d028711a0b65d2a.js","177","static/chunks/app/layout-13ebb542e989eb86.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/src/app/globals.css":{"id":347,"name":"*","chunks":["874","static/chunks/874-450ef3267553834d.js","63","static/chunks/63-0d028711a0b65d2a.js","177","static/chunks/app/layout-13ebb542e989eb86.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/src/components/Navbar.tsx":{"id":4737,"name":"*","chunks":["874","static/chunks/874-450ef3267553834d.js","63","static/chunks/63-0d028711a0b65d2a.js","177","static/chunks/app/layout-13ebb542e989eb86.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/src/app/(home)/Awards.tsx":{"id":1504,"name":"*","chunks":["874","static/chunks/874-450ef3267553834d.js","63","static/chunks/63-0d028711a0b65d2a.js","265","static/chunks/265-67e8af4cba899d4a.js","813","static/chunks/app/(home)/page-a6f88306518b2eb6.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/src/app/(home)/Hero.tsx":{"id":5494,"name":"*","chunks":["874","static/chunks/874-450ef3267553834d.js","63","static/chunks/63-0d028711a0b65d2a.js","265","static/chunks/265-67e8af4cba899d4a.js","813","static/chunks/app/(home)/page-a6f88306518b2eb6.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/src/app/(home)/sponsors.tsx":{"id":9495,"name":"*","chunks":["874","static/chunks/874-450ef3267553834d.js","63","static/chunks/63-0d028711a0b65d2a.js","265","static/chunks/265-67e8af4cba899d4a.js","813","static/chunks/app/(home)/page-a6f88306518b2eb6.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/src/app/history/Hero.tsx":{"id":6502,"name":"*","chunks":["429","static/chunks/app/history/page-4c7e3db414666fdb.js"],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/src/app/whitepaper/Hero.tsx":{"id":5957,"name":"*","chunks":[],"async":false},"/Users/kodi/Desktop/Crypto-soc-site/src/app/dao/page.tsx":{"id":4326,"name":"*","chunks":[],"async":false}},"entryCSSFiles":{"/Users/kodi/Desktop/Crypto-soc-site/src/":[],"/Users/kodi/Desktop/Crypto-soc-site/src/app/layout":[{"inlined":false,"path":"static/css/db0160c8b95efbca.css"},{"inlined":false,"path":"static/css/05f18736b1629064.css"}],"/Users/kodi/Desktop/Crypto-soc-site/src/app/(home)/page":[],"/Users/kodi/Desktop/Crypto-soc-site/src/app/history/page":[]},"rscModuleMapping":{"347":{"*":{"id":"1135","name":"*","chunks":[],"async":false}},"894":{"*":{"id":"6444","name":"*","chunks":[],"async":false}},"1295":{"*":{"id":"1307","name":"*","chunks":[],"async":false}},"1504":{"*":{"id":"2338","name":"*","chunks":[],"async":false}},"3063":{"*":{"id":"9603","name":"*","chunks":[],"async":false}},"4326":{"*":{"id":"2663","name":"*","chunks":[],"async":false}},"4737":{"*":{"id":"4","name":"*","chunks":[],"async":false}},"4911":{"*":{"id":"2089","name":"*","chunks":[],"async":false}},"4970":{"*":{"id":"6042","name":"*","chunks":[],"async":false}},"5494":{"*":{"id":"6892","name":"*","chunks":[],"async":false}},"5957":{"*":{"id":"3023","name":"*","chunks":[],"async":false}},"6502":{"*":{"id":"6374","name":"*","chunks":[],"async":false}},"6614":{"*":{"id":"8170","name":"*","chunks":[],"async":false}},"6874":{"*":{"id":"4536","name":"*","chunks":[],"async":false}},"6975":{"*":{"id":"9477","name":"*","chunks":[],"async":false}},"7555":{"*":{"id":"9345","name":"*","chunks":[],"async":false}},"9495":{"*":{"id":"1737","name":"*","chunks":[],"async":false}},"9665":{"*":{"id":"6577","name":"*","chunks":[],"async":false}}},"edgeRscModuleMapping":{}}
+globalThis.__RSC_MANIFEST = globalThis.__RSC_MANIFEST || {};
+globalThis.__RSC_MANIFEST["/history/page"] = {
+  moduleLoading: { prefix: "/_next/", crossOrigin: null },
+  clientModules: {
+    "[project]/node_modules/next/dist/esm/client/components/layout-router.js <module evaluation>":
+      {
+        id: "[project]/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/layout-router.js": {
+      id: "[project]/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",
+      name: "*",
+      chunks: [
+        "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+        "static/chunks/node_modules_295ce7aa._.js",
+        "static/chunks/src_040bd180._.js",
+        "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+      ],
+      async: false,
+    },
+    "[project]/node_modules/next/dist/esm/client/components/render-from-template-context.js <module evaluation>":
+      {
+        id: "[project]/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/render-from-template-context.js":
+      {
+        id: "[project]/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/client-page.js <module evaluation>":
+      {
+        id: "[project]/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/client-page.js": {
+      id: "[project]/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",
+      name: "*",
+      chunks: [
+        "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+        "static/chunks/node_modules_295ce7aa._.js",
+        "static/chunks/src_040bd180._.js",
+        "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+      ],
+      async: false,
+    },
+    "[project]/node_modules/next/dist/esm/client/components/client-segment.js <module evaluation>":
+      {
+        id: "[project]/node_modules/next/dist/client/components/client-segment.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/client-segment.js":
+      {
+        id: "[project]/node_modules/next/dist/client/components/client-segment.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/http-access-fallback/error-boundary.js <module evaluation>":
+      {
+        id: "[project]/node_modules/next/dist/client/components/http-access-fallback/error-boundary.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/http-access-fallback/error-boundary.js":
+      {
+        id: "[project]/node_modules/next/dist/client/components/http-access-fallback/error-boundary.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/metadata/async-metadata.js <module evaluation>":
+      {
+        id: "[project]/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/metadata/async-metadata.js":
+      {
+        id: "[project]/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/error-boundary.js <module evaluation>":
+      {
+        id: "[project]/node_modules/next/dist/client/components/error-boundary.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/error-boundary.js":
+      {
+        id: "[project]/node_modules/next/dist/client/components/error-boundary.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/metadata/metadata-boundary.js <module evaluation>":
+      {
+        id: "[project]/node_modules/next/dist/client/components/metadata/metadata-boundary.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/esm/client/components/metadata/metadata-boundary.js":
+      {
+        id: "[project]/node_modules/next/dist/client/components/metadata/metadata-boundary.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/client/components/error-boundary.js <module evaluation>":
+      {
+        id: "[project]/node_modules/next/dist/client/components/error-boundary.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/client/components/error-boundary.js": {
+      id: "[project]/node_modules/next/dist/client/components/error-boundary.js [app-client] (ecmascript)",
+      name: "*",
+      chunks: [
+        "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+        "static/chunks/node_modules_295ce7aa._.js",
+        "static/chunks/src_040bd180._.js",
+        "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+      ],
+      async: false,
+    },
+    "[project]/node_modules/next/dist/client/image-component.js <module evaluation>":
+      {
+        id: "[project]/node_modules/next/dist/client/image-component.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/client/image-component.js": {
+      id: "[project]/node_modules/next/dist/client/image-component.js [app-client] (ecmascript)",
+      name: "*",
+      chunks: [
+        "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+        "static/chunks/node_modules_295ce7aa._.js",
+        "static/chunks/src_040bd180._.js",
+        "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+      ],
+      async: false,
+    },
+    "[project]/node_modules/next/dist/client/app-dir/link.js <module evaluation>":
+      {
+        id: "[project]/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)",
+        name: "*",
+        chunks: [
+          "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+          "static/chunks/node_modules_295ce7aa._.js",
+          "static/chunks/src_040bd180._.js",
+          "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        ],
+        async: false,
+      },
+    "[project]/node_modules/next/dist/client/app-dir/link.js": {
+      id: "[project]/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)",
+      name: "*",
+      chunks: [
+        "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+        "static/chunks/node_modules_295ce7aa._.js",
+        "static/chunks/src_040bd180._.js",
+        "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+      ],
+      async: false,
+    },
+    "[project]/src/components/Navbar.tsx <module evaluation>": {
+      id: "[project]/src/components/Navbar.tsx [app-client] (ecmascript)",
+      name: "*",
+      chunks: [
+        "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+        "static/chunks/node_modules_295ce7aa._.js",
+        "static/chunks/src_040bd180._.js",
+        "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+      ],
+      async: false,
+    },
+    "[project]/src/components/Navbar.tsx": {
+      id: "[project]/src/components/Navbar.tsx [app-client] (ecmascript)",
+      name: "*",
+      chunks: [
+        "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+        "static/chunks/node_modules_295ce7aa._.js",
+        "static/chunks/src_040bd180._.js",
+        "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+      ],
+      async: false,
+    },
+    "[project]/src/app/history/Hero.tsx <module evaluation>": {
+      id: "[project]/src/app/history/Hero.tsx [app-client] (ecmascript)",
+      name: "*",
+      chunks: [
+        "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+        "static/chunks/node_modules_295ce7aa._.js",
+        "static/chunks/src_040bd180._.js",
+        "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        "static/chunks/_d066a3f9._.js",
+        "static/chunks/src_app_history_page_tsx_3aeec11c._.js",
+      ],
+      async: false,
+    },
+    "[project]/src/app/history/Hero.tsx": {
+      id: "[project]/src/app/history/Hero.tsx [app-client] (ecmascript)",
+      name: "*",
+      chunks: [
+        "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+        "static/chunks/node_modules_295ce7aa._.js",
+        "static/chunks/src_040bd180._.js",
+        "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+        "static/chunks/_d066a3f9._.js",
+        "static/chunks/src_app_history_page_tsx_3aeec11c._.js",
+      ],
+      async: false,
+    },
+  },
+  ssrModuleMapping: {
+    "[project]/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/layout-router.js [app-ssr] (ecmascript)",
+          name: "*",
+          chunks: [
+            "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+            "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+            "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+            "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+            "server/chunks/ssr/node_modules_6307f191._.js",
+            "server/chunks/ssr/[root of the server]__ea32c228._.js",
+          ],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/render-from-template-context.js [app-ssr] (ecmascript)",
+          name: "*",
+          chunks: [
+            "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+            "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+            "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+            "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+            "server/chunks/ssr/node_modules_6307f191._.js",
+            "server/chunks/ssr/[root of the server]__ea32c228._.js",
+          ],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/client-page.js [app-ssr] (ecmascript)",
+          name: "*",
+          chunks: [
+            "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+            "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+            "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+            "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+            "server/chunks/ssr/node_modules_6307f191._.js",
+            "server/chunks/ssr/[root of the server]__ea32c228._.js",
+          ],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/client-segment.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/client-segment.js [app-ssr] (ecmascript)",
+          name: "*",
+          chunks: [
+            "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+            "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+            "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+            "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+            "server/chunks/ssr/node_modules_6307f191._.js",
+            "server/chunks/ssr/[root of the server]__ea32c228._.js",
+          ],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/http-access-fallback/error-boundary.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/http-access-fallback/error-boundary.js [app-ssr] (ecmascript)",
+          name: "*",
+          chunks: [
+            "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+            "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+            "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+            "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+            "server/chunks/ssr/node_modules_6307f191._.js",
+            "server/chunks/ssr/[root of the server]__ea32c228._.js",
+          ],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/metadata/async-metadata.js [app-ssr] (ecmascript)",
+          name: "*",
+          chunks: [
+            "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+            "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+            "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+            "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+            "server/chunks/ssr/node_modules_6307f191._.js",
+            "server/chunks/ssr/[root of the server]__ea32c228._.js",
+          ],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/error-boundary.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/client/components/error-boundary.js [app-ssr] (ecmascript)",
+          name: "*",
+          chunks: [
+            "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+            "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+            "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+            "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+            "server/chunks/ssr/node_modules_6307f191._.js",
+            "server/chunks/ssr/[root of the server]__ea32c228._.js",
+          ],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/metadata/metadata-boundary.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/metadata/metadata-boundary.js [app-ssr] (ecmascript)",
+          name: "*",
+          chunks: [
+            "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+            "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+            "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+            "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+            "server/chunks/ssr/node_modules_6307f191._.js",
+            "server/chunks/ssr/[root of the server]__ea32c228._.js",
+          ],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/image-component.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/client/image-component.js [app-ssr] (ecmascript)",
+          name: "*",
+          chunks: [
+            "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+            "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+            "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+            "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+            "server/chunks/ssr/node_modules_6307f191._.js",
+            "server/chunks/ssr/[root of the server]__ea32c228._.js",
+          ],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/client/app-dir/link.js [app-ssr] (ecmascript)",
+          name: "*",
+          chunks: [
+            "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+            "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+            "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+            "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+            "server/chunks/ssr/node_modules_6307f191._.js",
+            "server/chunks/ssr/[root of the server]__ea32c228._.js",
+          ],
+          async: false,
+        },
+      },
+    "[project]/src/components/Navbar.tsx [app-client] (ecmascript)": {
+      "*": {
+        id: "[project]/src/components/Navbar.tsx [app-ssr] (ecmascript)",
+        name: "*",
+        chunks: [
+          "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+          "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+          "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+          "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+          "server/chunks/ssr/node_modules_6307f191._.js",
+          "server/chunks/ssr/[root of the server]__ea32c228._.js",
+        ],
+        async: false,
+      },
+    },
+    "[project]/src/app/history/Hero.tsx [app-client] (ecmascript)": {
+      "*": {
+        id: "[project]/src/app/history/Hero.tsx [app-ssr] (ecmascript)",
+        name: "*",
+        chunks: [
+          "server/chunks/ssr/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bdbf5cf2._.js",
+          "server/chunks/ssr/node_modules_next_dist_client_ac0a7b3e._.js",
+          "server/chunks/ssr/node_modules_next_dist_esm_9c6e2ddd._.js",
+          "server/chunks/ssr/node_modules_next_dist_960bf955._.js",
+          "server/chunks/ssr/node_modules_6307f191._.js",
+          "server/chunks/ssr/[root of the server]__ea32c228._.js",
+          "server/chunks/ssr/_760204df._.js",
+        ],
+        async: false,
+      },
+    },
+  },
+  edgeSSRModuleMapping: {},
+  rscModuleMapping: {
+    "[project]/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/layout-router.js (client reference/proxy)",
+          name: "*",
+          chunks: ["server/app/history/page.js"],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/render-from-template-context.js (client reference/proxy)",
+          name: "*",
+          chunks: ["server/app/history/page.js"],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/client-page.js (client reference/proxy)",
+          name: "*",
+          chunks: ["server/app/history/page.js"],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/client-segment.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/client-segment.js (client reference/proxy)",
+          name: "*",
+          chunks: ["server/app/history/page.js"],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/http-access-fallback/error-boundary.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/http-access-fallback/error-boundary.js (client reference/proxy)",
+          name: "*",
+          chunks: ["server/app/history/page.js"],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/metadata/async-metadata.js (client reference/proxy)",
+          name: "*",
+          chunks: ["server/app/history/page.js"],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/error-boundary.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/client/components/error-boundary.js (client reference/proxy)",
+          name: "*",
+          chunks: ["server/app/history/page.js"],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/components/metadata/metadata-boundary.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/esm/client/components/metadata/metadata-boundary.js (client reference/proxy)",
+          name: "*",
+          chunks: ["server/app/history/page.js"],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/image-component.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/client/image-component.js (client reference/proxy)",
+          name: "*",
+          chunks: ["server/app/history/page.js"],
+          async: false,
+        },
+      },
+    "[project]/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)":
+      {
+        "*": {
+          id: "[project]/node_modules/next/dist/client/app-dir/link.js (client reference/proxy)",
+          name: "*",
+          chunks: ["server/app/history/page.js"],
+          async: false,
+        },
+      },
+    "[project]/src/components/Navbar.tsx [app-client] (ecmascript)": {
+      "*": {
+        id: "[project]/src/components/Navbar.tsx (client reference/proxy)",
+        name: "*",
+        chunks: ["server/app/history/page.js"],
+        async: false,
+      },
+    },
+    "[project]/src/app/history/Hero.tsx [app-client] (ecmascript)": {
+      "*": {
+        id: "[project]/src/app/history/Hero.tsx (client reference/proxy)",
+        name: "*",
+        chunks: ["server/app/history/page.js"],
+        async: false,
+      },
+    },
+  },
+  edgeRscModuleMapping: {},
+  entryCSSFiles: {
+    "[project]/src/app/layout": [
+      {
+        path: "static/chunks/[root of the server]__ca540c7e._.css",
+        inlined: false,
+      },
+    ],
+    "[project]/src/app/history/page": [
+      {
+        path: "static/chunks/[root of the server]__ca540c7e._.css",
+        inlined: false,
+      },
+    ],
+  },
+  entryJSFiles: {
+    "[project]/src/app/layout": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+      "static/chunks/node_modules_295ce7aa._.js",
+      "static/chunks/src_040bd180._.js",
+      "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+    ],
+    "[project]/src/app/history/page": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_8bb631b9._.js",
+      "static/chunks/node_modules_295ce7aa._.js",
+      "static/chunks/src_040bd180._.js",
+      "static/chunks/src_app_layout_tsx_f0e4c1a2._.js",
+      "static/chunks/_d066a3f9._.js",
+      "static/chunks/src_app_history_page_tsx_3aeec11c._.js",
+    ],
+  },
+};

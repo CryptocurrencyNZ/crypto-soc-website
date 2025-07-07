@@ -47,7 +47,7 @@ const SlidingBackground = () => {
             <div className="relative w-full h-full">
               <Image
                 src={images[currentIndex]}
-                alt={`Slide ${currentIndex + 1}`}
+                alt={`University of Canterbury Crypto Society DAO`}
                 fill
                 sizes="100vw"
                 className="object-cover w-full h-full opacity-40"

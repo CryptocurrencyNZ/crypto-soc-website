@@ -81,7 +81,7 @@ export default function DAODashboard() {
       </Link>
 
       <div className="w-full text-center px-4 mb-10 md:px-[5%] pt-6 md:pt-8 mt-6 md:mt-10 font-bold text-2xl md:text-4xl text-white">
-        <h2>DAO Dashboard</h2>
+        <h2>CryptoSoc DAO Dashboard</h2>
         <p className="text-gray-400 text-base font-medium mt-2">
           Real-time statistics and proposals
         </p>
@@ -168,8 +168,8 @@ export default function DAODashboard() {
                       </div>
                       <div className="text-sm text-gray-300">
                         Quorum: {Math.round(proposal.progress)}% (
-                        {proposal.quorum.current / 10 ** 18} / {proposal.quorum.required / 10 ** 18}{" "}
-                        votes)
+                        {proposal.quorum.current / 10 ** 18} /{" "}
+                        {proposal.quorum.required / 10 ** 18} votes)
                       </div>
                       <div className="flex justify-between items-center mt-2 text-sm text-gray-400">
                         <span>

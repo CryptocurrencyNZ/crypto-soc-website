@@ -12,10 +12,11 @@ const Footer = () => {
           <div className="text-center md:text-left">
             <Link href="/">
               <div className="relative w-40 h-auto mx-auto md:mx-0 mb-4">
-                <img
+                <Image
                   src="/images/Crypto-soc-Logo.png"
-                  alt="CNZ Logo"
-                  className="object-contain w-full"
+                  alt="Crypto Society Logo"
+                  className="object-contain"
+                  fill
                 />
               </div>
               <h3 className="text-white font-bold text-xl mb-4">
@@ -85,7 +86,7 @@ const Footer = () => {
             <div className="w-40 h-16 relative">
               <Image
                 src="/images/HorizontalCNZ.png"
-                alt="Community"
+                alt="CryptocurrencyNZ Logo "
                 fill
                 className="object-contain"
               />

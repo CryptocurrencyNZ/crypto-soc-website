@@ -1,4 +1,6 @@
 {
   "/(home)/page": "app/(home)/page.js",
-  "/dao/page": "app/dao/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dao/page": "app/dao/page.js",
+  "/history/page": "app/history/page.js"
 }

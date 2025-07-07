@@ -1,4 +1,6 @@
 "use client";
+import Image from "next/image";
+import Link from "next/link";
 
 const Hero = () => {
   const timelineEvents = [
@@ -66,12 +68,12 @@ const Hero = () => {
         <>
           Core developers Invited by UC Business school to teach the practical
           laboratory sessions of{" "}
-          <a
+          <Link
             href="https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=INFO363&occurrence=25S1(C)&year=2025"
             className="text-orange-400 hover:text-orange-300"
           >
-            INFO-361
-          </a>{" "}
+            INFO-363
+          </Link>{" "}
           (S1) UC
         </>,
         "UC Crypto DAO core contributors journey to 2025 Web3NZ Hackathon to develop the NZ P2P Crypto Marketplace v.2, winning the award for best UX and design. ",
@@ -160,10 +162,12 @@ const Hero = () => {
                     <div className="w-6  h-6 bg-orange-500 rounded-full border-2 border-white shadow-lg mb-2" />
                   </div>
                   <div className="pl-16 mx-auto pt-2">
-                    <img
+                    <Image
                       src={event.imagePlaceholder}
-                      alt={`${event.year} event`}
+                      alt={`UC Crypto Society DAO ${event.year} event`}
                       className="w-[240px] h-[160px] object-cover rounded-xl border border-orange-400/50 shadow-lg"
+                      width={240}
+                      height={160}
                     />
                   </div>
                 </div>
@@ -205,10 +209,12 @@ const Hero = () => {
                     ) : (
                       // Image on left
                       <div className="rounded-xl overflow-hidden shadow-lg border border-orange-400/50 w-full max-w-md">
-                        <img
+                        <Image
                           src={event.imagePlaceholder}
-                          alt={`${event.year} event`}
+                          alt={`UC Crypto Society DAO ${event.year} event`}
                           className="w-full h-auto object-cover"
+                          width={240}
+                          height={160}
                         />
                       </div>
                     )}
@@ -254,10 +260,12 @@ const Hero = () => {
                     ) : (
                       // Image on right
                       <div className="rounded-xl overflow-hidden shadow-lg border border-orange-400/50 w-full max-w-md">
-                        <img
+                        <Image
                           src={event.imagePlaceholder}
-                          alt={`${event.year} event`}
+                          alt={`UC Crypto Society DAO ${event.year} event`}
                           className="w-full h-auto object-cover"
+                          width={240}
+                          height={160}
                         />
                       </div>
                     )}

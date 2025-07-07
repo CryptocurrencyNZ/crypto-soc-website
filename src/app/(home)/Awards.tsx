@@ -6,6 +6,7 @@ interface Award {
   title: string;
   description: string;
   image: string;
+  alt: string;
   year: string;
   organizer: string;
 }
@@ -16,6 +17,7 @@ const awards: Award[] = [
     description:
       "Awarded for excellence in cryptocurrency education, empowering Canterbury University Students and the wider community with blockchain knowledge.",
     image: "/images/web3-awards-cryptosoc.jpg",
+    alt: "University of Canterbury Crypto Society at the Web3NZ awards",
     year: "2024",
     organizer: "Web3NZ Awards",
   },
@@ -24,6 +26,7 @@ const awards: Award[] = [
     description:
       "Our team's commitment to creating intuitive and engaging blockchain interfaces earned us this prestigious recognition.",
     image: "/images/web3nz-award.jpg",
+    alt: "University of Canterbury Crypto Society at the Web3NZ Hackathon",
     year: "2025",
     organizer: "Web3NZ Hackathon",
   },
@@ -58,7 +61,7 @@ const AwardsSection = () => {
           >
             <Image
               src={award.image}
-              alt={award.title}
+              alt={award.alt}
               fill
               className="object-contain object-center"
               sizes="(max-width: 768px) 100vw, 50vw"

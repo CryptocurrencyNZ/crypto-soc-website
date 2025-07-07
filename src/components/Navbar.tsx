@@ -4,6 +4,7 @@ import { Menu, X } from "lucide-react";
 import navigation, { isDropdown, getAllMenuItems } from "../config/navigation";
 import { LucideIcon } from "lucide-react";
 import Link from "next/link";
+import Image from "next/image";
 
 interface NavItemProps {
   text: string;
@@ -255,13 +256,15 @@ const Navbar = () => {
 
           {/* Title and Navigation Container */}
           <div className="flex flex-1 items-center justify-between min-[1200px]:justify-between ">
-            <div className="text-center flex-shrink-0 mx-2 md:mx-4">
+            <div className="text-center flex-shrink-0 mx-2 md:mx-4 ">
               <Link href="/">
-                <img
-                  src="../images/Crypto-soc-Logo.png"
+                <Image
+                  src="/images/Crypto-soc-Logo.png"
                   alt="Crypto Soc Logo"
                   className="h-20 md:h-20 mx-auto hover:border-orange-400"
-                ></img>
+                  width={255}
+                  height={20}
+                ></Image>
               </Link>
             </div>
 

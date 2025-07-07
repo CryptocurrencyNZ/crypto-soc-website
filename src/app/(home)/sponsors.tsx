@@ -61,7 +61,8 @@ const SponsorBanner = () => {
     {
       name: "Cryptocurrency NZ",
       image: "/images/Horizontal Stacked.png",
-      description: "UPDATE THIS ",
+      description:
+        "Cryptocurrency NZ is a New Zealand grassroots Bitcoin & cryptocurrency community guild powering the physical and digital social infrastructure of NZ's decentralized digital asset revolution.",
       website: "https://cryptocurrency.org.nz",
     },
     {
@@ -135,7 +136,7 @@ const SponsorBanner = () => {
                                 bg-gradient-to-b from-white/40 to-white/20 rounded-lg backdrop-blur-sm 
                                 border border-orange-400/30 hover:border-orange-400/70 
                                 transition-all duration-300 p-3 sm:p-4 
-                                hover:shadow-[0_0_15px_rgba(74,222,128,0.3)] md:hover:shadow-[0_0_25px_rgba(74,222,128,0.4)]
+                                hover:shadow-[0_0_15px_rgba(255,165,0,0.4)] md:hover:shadow-[0_0_15px_rgba(255,165,0,0.4)]
                                 overflow-hidden cursor-pointer z-10
                             `}
               >
@@ -164,7 +165,7 @@ const SponsorBanner = () => {
                                 bg-gradient-to-b from-zinc-900/95 to-black/95
                                 rounded-lg border border-orange-400/30
                                 transition-all duration-300 ease-in-out
-                                shadow-[0_0_20px_rgba(74,222,128,0.4)]
+                                shadow-[0_0_15px_rgba(255,165,0,0.4)]
                                 z-20
                                 
                                 /* Desktop hover behavior */
@@ -204,7 +205,7 @@ const SponsorBanner = () => {
                     className="inline-flex items-center gap-1 px-3 py-1
                                             bg-gradient-to-r from-orange-500 to-orange-600 text-white text-xs rounded-lg 
                                             hover:from-orange-600 hover:to-orange-700 transition-all duration-300
-                                            hover:shadow-[0_0_10px_rgba(74,222,128,0.4)]
+                                            hover:shadow-[0_0_15px_rgba(255,165,0,0.4)]
                                             w-full justify-center mt-auto"
                     onClick={(e) => {
                       // Prevent the click from propagating to parent (card click)

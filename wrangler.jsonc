@@ -8,7 +8,7 @@
   "routes": [
     {
       "pattern": "uccryptosociety.org.nz",
-      "custom_domain": true
+      "custom_domain": true,
     },
   ],
   "main": ".open-next/worker.js",
