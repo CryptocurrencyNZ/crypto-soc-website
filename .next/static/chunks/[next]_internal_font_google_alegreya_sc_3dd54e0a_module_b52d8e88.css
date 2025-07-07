@@ -1,0 +1,335 @@
+/* [next]/internal/font/google/alegreya_sc_3dd54e0a.module.css [app-client] (css) */
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/taiOGmRtCJ62_O0HhNEa_Z6i2ZAbaqe_LGs-s.34304b07.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/taiOGmRtCJ62_O0HhNEa_Z6r2ZAbaqe_LGs-s.dd0c85d2.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/taiOGmRtCJ62_O0HhNEa_Z6j2ZAbaqe_LGs-s.74ef34e1.woff2") format("woff2");
+  unicode-range: U+1F??;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/taiOGmRtCJ62_O0HhNEa_Z6s2ZAbaqe_LGs-s.96addb8d.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/taiOGmRtCJ62_O0HhNEa_Z6g2ZAbaqe_LGs-s.2727cedf.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/taiOGmRtCJ62_O0HhNEa_Z6h2ZAbaqe_LGs-s.db13b09c.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/taiOGmRtCJ62_O0HhNEa_Z6v2ZAbaqe_-s.p.55cb44bd.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZZc_oU7SKqUFmKCJz4-s.b3341ea5.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZZc_oUySKqUFmKCJz4-s.8170b482.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZZc_oU6SKqUFmKCJz4-s.ead3accd.woff2") format("woff2");
+  unicode-range: U+1F??;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZZc_oU1SKqUFmKCJz4-s.72ab5bd1.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZZc_oU5SKqUFmKCJz4-s.27ce9a63.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZZc_oU4SKqUFmKCJz4-s.70a74931.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZZc_oU2SKqUFmKC-s.p.c69ac26c.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYU_IU7SKqUFmKCJz4-s.1d17f9a7.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYU_IUySKqUFmKCJz4-s.5d406345.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYU_IU6SKqUFmKCJz4-s.8059df04.woff2") format("woff2");
+  unicode-range: U+1F??;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYU_IU1SKqUFmKCJz4-s.27bec9b1.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYU_IU5SKqUFmKCJz4-s.fc2b013f.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYU_IU4SKqUFmKCJz4-s.60cc78d7.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYU_IU2SKqUFmKC-s.p.2941d794.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYI_4U7SKqUFmKCJz4-s.f9217983.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYI_4UySKqUFmKCJz4-s.8c19c573.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYI_4U6SKqUFmKCJz4-s.209622a0.woff2") format("woff2");
+  unicode-range: U+1F??;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYI_4U1SKqUFmKCJz4-s.8371ac4c.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYI_4U5SKqUFmKCJz4-s.76d3985e.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYI_4U4SKqUFmKCJz4-s.de834eef.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYI_4U2SKqUFmKC-s.p.dc2c5e93.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYs_oU7SKqUFmKCJz4-s.99b7af80.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYs_oUySKqUFmKCJz4-s.b565de21.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYs_oU6SKqUFmKCJz4-s.f61ae7fb.woff2") format("woff2");
+  unicode-range: U+1F??;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYs_oU1SKqUFmKCJz4-s.1ed648ce.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYs_oU5SKqUFmKCJz4-s.996c8e60.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYs_oU4SKqUFmKCJz4-s.d3b1996c.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Alegreya SC;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../media/taiTGmRtCJ62_O0HhNEa_ZYs_oU2SKqUFmKC-s.p.e1f38fe9.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Alegreya SC Fallback;
+  src: local(Times New Roman);
+  ascent-override: 88.38%;
+  descent-override: 30.01%;
+  line-gap-override: 0.0%;
+  size-adjust: 114.95%;
+}
+
+.alegreya_sc_3dd54e0a-module__14Lq9G__className {
+  font-family: Alegreya SC, Alegreya SC Fallback;
+  font-style: normal;
+}
+
+.alegreya_sc_3dd54e0a-module__14Lq9G__variable {
+  --font-alegreya: "Alegreya SC", "Alegreya SC Fallback";
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_alegreya_sc_3dd54e0a_module_b52d8e88.css.map*/
